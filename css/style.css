@@ -1,4 +1,4 @@
-nav img{
+.nav img{
   
 	margin: 0 auto;
 	width:100%;
@@ -8,6 +8,5 @@ nav img{
 }
 .slider img{
   max-height: 350px;
-	margin: 0 auto;
-	width:100%;
+	
 }
