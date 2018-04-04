@@ -1,9 +1,13 @@
 nav img{
-  max-height: 900px;
+  
+	margin: 0 auto;
+	width:100%;
 }
 .responsive-img{
 	max-height:30px;
 }
 .slide img{
   max-height: 350px;
+	margin: 0 auto;
+	width:100%;
 }
